@@ -697,7 +697,7 @@ The traditional Yemenite way adds grated tomato and s'chug alongside, if you wan
 
 ## Store fries and hot dogs — air fryer
 
-Meat. Whatever the bag says, plus five minutes. **No prep at all.**
+Meat. Whatever the bag says, plus five minutes.
 
 - A bag of ready-made frozen fries
 - Hot dogs
@@ -706,9 +706,9 @@ Meat. Whatever the bag says, plus five minutes. **No prep at all.**
 2. **Score the hot dogs** and add them for the last **5 minutes**.
 3. That's it.
 
-There's a from-scratch fries recipe earlier in this book and I stand behind it. But one of my kids will only eat the bagged ones and has told me so to my face. That isn't a failure of the recipe — commercial fries carry a starch coating and a par-fry from the factory that you can't fully reproduce at home, and he can taste the difference. Some of this is just conceding the point.
+Two frozen things and one machine. About as easy as dinner gets.
 
-**This is the meal for a kid who has gone past hungry and into hysterical.** Mine asks for hot dogs by name when he's crying too hard to get a full sentence out. Nothing in it asks him to wait, asks me to negotiate, or requires anybody to make a decision. Bag, freezer, twenty minutes.
+There's a from-scratch fries recipe earlier in the book. One of my kids prefers the bagged ones anyway — they're par-fried and coated at the factory, and he can taste it. Both are fine.
 
 ---
 
