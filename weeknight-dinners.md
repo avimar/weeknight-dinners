@@ -484,6 +484,31 @@ Meat. 5 min prep, 10–12 min cook.
 
 Carb and protein together. Minimum dishes, which counts for more than people admit.
 
+## Pasta, beans and cheese — microwave
+
+Dairy. **About two minutes.** My favorite thing in this entire document.
+
+- Cooked pasta (from the fridge — see below)
+- Canned beans in sauce, or chickpeas
+- Cheese
+
+1. Put cooked pasta in a bowl.
+2. Spoon the beans or chickpeas over it.
+3. Cheese on top.
+4. Microwave until hot.
+
+That's the whole recipe. Carb, protein and dairy in a bowl in about two minutes, with no cooking and no decision to make.
+
+**The two things that make it work:**
+
+**Cook pasta ahead and keep it in the fridge.** It lasts a few days. Make extra any night you're already boiling pasta and you've bought yourself several near-instant meals — the same batch-once idea as the oven shnitzel, at a fraction of the effort.
+
+**Decant the beans out of the can into a plastic container.** They keep noticeably longer that way than sitting in the opened can.
+
+Between those two, the whole meal is assembly. Nothing cooks, nothing defrosts, nothing gets decided. For the evenings when you have nothing left, this is the one.
+
+---
+
 ## Potato and shnitzel — pressure cooker
 
 Meat. 8 minutes under pressure. *(schnitzel)*
