@@ -486,7 +486,7 @@ Carb and protein together. Minimum dishes, which counts for more than people adm
 
 ## Pasta, beans and cheese — microwave
 
-Dairy. **About two minutes.** My favorite thing in this entire document.
+Dairy. **About two minutes.**
 
 - Cooked pasta (from the fridge — see below)
 - Canned beans in sauce, or chickpeas
