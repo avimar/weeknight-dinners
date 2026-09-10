@@ -44,7 +44,12 @@ So the honest feedback stays in these recipes. Where something failed, I say so.
 
 ## 5. It's not your job to make them eat
 
-Your job is to provide food. Make it, offer it, and stop there.
+This one isn't mine — it's the single most useful thing I've read about feeding kids, and it comes from Ellyn Satter, a nutritionist and family therapist who spent her career on exactly this.
+
+> **"It is the parent's job to decide what food is offered, when it is offered, and where eating happens. It is the child's job to decide whether to eat and how much."**
+> — Ellyn Satter, the Division of Responsibility in Feeding
+
+That's the whole thing. Your job is to provide food. Make it, offer it, and stop there.
 
 Obviously try to make things that are kid-friendly — that's what the rest of this is for. But if they're not hungry, they're not hungry. And if they complain and want something different, you don't have to make it. You probably don't have the energy anyway, and at some point you can just stop offering alternatives.
 
@@ -53,6 +58,18 @@ Put out the three things — a vegetable, a carb, and the protein — and let th
 You can keep one easy standing option if you want, a peanut butter sandwich or whatever's simple in your house. Just don't turn it into something you owe them every night.
 
 And you'll know if it's actually a problem. If nobody's waking up in the middle of the night starving, it was fine.
+
+### The "when" is your half too
+
+Notice that *when* is on the parent's side of that split. This is the part that makes the rest of it work, and it's the rule I'd most recommend adopting:
+
+**No snacks close to bedtime.** If a kid skips dinner and then gets a snack an hour later, dinner never had to work. You've quietly taken over the "whether to eat" half of the job by giving them a way out of it — and you've guaranteed you'll be doing this again tomorrow.
+
+This isn't about withholding food. Satter is firmly against restricting kids' eating, and her framework has real sit-down snacks built into the day. It's that *you* decide when those happen, not the kid at 8:15pm. Meals and snacks at predictable times, and not much in between.
+
+Hold that line for a week or two and dinner starts landing differently.
+
+**Read more:** [Janet Lansbury's interview with Ellyn Satter](https://www.janetlansbury.com/2022/05/concerned-about-your-childs-eating-habits-ellyn-satter-has-answers/) is the clearest introduction I've found — it's a transcript, so you can read it in ten minutes instead of listening to the podcast.
 
 ## 6. Expect to experiment
 
@@ -562,6 +579,8 @@ Parve. 12 min. **The 4/4/4 method.**
 **They peel incredibly easily** — that's the real reason to do eggs this way rather than boiling them.
 
 I make a dozen at a time; they keep about a week in the fridge. Instant protein for a lunchbox or a kid who didn't eat dinner.
+
+**The part I didn't expect:** because they peel so easily, my 4- and 6-year-olds pull them out of the fridge and peel them themselves. They often only eat the whites and leave the yolks — but it's a genuinely healthy snack that they went and chose on their own, with no involvement from me. Worth the twelve minutes on that basis alone.
 
 (The classic version is 5/5/5, also with quick release.)
 

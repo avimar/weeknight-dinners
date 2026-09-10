@@ -12,7 +12,7 @@ A working collection of the meals I actually make for three kids, plus the princ
 2. **Hands-off beats fast** — optimize for time you can spend *not* cooking.
 3. **A carb and a protein** — that's the whole nutritional model. The protein is the hard part.
 4. **Make things they'll actually eat** — so the failures stay in.
-5. **It's not your job to make them eat** — provide the food, offer it, stop there. You don't have to cook a separate meal for each kid.
+5. **It's not your job to make them eat** — provide the food, offer it, stop there. You don't have to cook a separate meal for each kid. (Ellyn Satter's [Division of Responsibility](https://www.janetlansbury.com/2022/05/concerned-about-your-childs-eating-habits-ellyn-satter-has-answers/); includes the no-snacks-near-bedtime corollary.)
 6. **Expect to experiment** — if they consistently won't eat something, take it out of the rotation and don't feel bad about it.
 7. **Run a weekly default** — decide once, then stop deciding.
 8. **Repetition builds muscle memory** — a small rotation, run often, eventually costs nothing.
