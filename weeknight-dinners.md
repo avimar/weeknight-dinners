@@ -10,15 +10,15 @@ Everything here is kosher, metric, and Celsius.
 
 # The principles
 
-The recipes matter less than these do. If you take nothing else, take this section.
+The thinking behind the recipes.
 
 ## 1. Time is the whole game
 
 Not "quick for a home-cooked meal." Actually fast. The clock starts when you walk in the door tired and it ends when food is in front of a kid who has been asking since 4pm.
 
-Anything that requires you to have made a decision last night has already failed. **No defrosting the night before. No marinating. No prep.** If a recipe's first line is "the evening before," it doesn't belong in a weeknight rotation — it belongs in a different life.
+Anything that requires you to have made a decision last night has already failed. **No defrosting the night before. No marinating. No prep.** If a recipe's first line is "the evening before," it isn't a weeknight recipe.
 
-This is why so much of what follows is *from frozen* and *in an air fryer*. Frozen individually-sealed fish fillets go from freezer to plate in twelve minutes with no thawing step. That's not a compromise. That's the point.
+This is why so much of what follows is *from frozen* and *in an air fryer*. Frozen individually-sealed fish fillets go from freezer to plate in about twelve minutes, with no thawing step.
 
 ## 2. Hands-off beats fast
 
@@ -32,19 +32,39 @@ Where a recipe *does* have two active parts, run them in parallel. See the mac a
 
 That's the whole nutritional model. Don't overbuild it.
 
-Carbs are easy — kids eat carbs enthusiastically and without negotiation. **The protein is the entire problem.** So the structure of every meal here is: pick a protein that they'll actually eat, then bolt on whatever carb is fastest. Rice, pasta, ptitim, fries, toast. Toast counts. Toast has always counted.
+Carbs are easy — kids eat carbs without negotiation. **The protein is the hard part.** So the structure of every meal here is: pick a protein that they'll actually eat, then add whatever carb is fastest. Rice, pasta, ptitim, fries, toast. Toast counts.
 
-Vegetables get their own rule: **cut them into finger food and put them on the table raw, with a dip.** Sticks, coins, spears — the shape matters more than you'd think. Techina or roasted garlic dip does more for vegetable consumption in my house than any amount of cooking them does. A cooked vegetable is a battle; a raw carrot stick next to a bowl of techina is just there, and it disappears.
+Vegetables get their own rule: **cut them into finger food and put them on the table raw, with a dip.** Sticks, coins, spears — the shape matters more than you'd think. A raw carrot stick sitting next to a bowl of techina is just there, and some of it gets eaten.
 
-## 4. The kids have to actually eat it
+## 4. Make things they'll actually eat
 
-A perfectly balanced meal that comes back untouched has zero nutritional value. This is obvious and everyone forgets it.
+A perfectly balanced meal that comes back untouched hasn't fed anyone.
 
-Which means the honest feedback stays in these recipes. Where something failed, I say so. You'll see notes like *"kids said burned"* and *"didn't want to try it"* — those are the most useful lines in the document. A recipe collection with no failures in it is lying to you.
+So the honest feedback stays in these recipes. Where something failed, I say so. You'll see notes like *"kids said burned"* and *"didn't want to try it"* — those are as useful as the parts that worked.
+
+## 5. It's not your job to make them eat
+
+Your job is to provide food. Make it, offer it, and stop there.
+
+Obviously try to make things that are kid-friendly — that's what the rest of this is for. But if they're not hungry, they're not hungry. And if they complain and want something different, you don't have to make it. You probably don't have the energy anyway, and at some point you can just stop offering alternatives.
+
+Put out the three things — a vegetable, a carb, and the protein — and let them take whichever ones they want. **You don't have to cook a separate meal for each kid.**
+
+You can keep one easy standing option if you want, a peanut butter sandwich or whatever's simple in your house. Just don't turn it into something you owe them every night.
+
+And you'll know if it's actually a problem. If nobody's waking up in the middle of the night starving, it was fine.
+
+## 6. Expect to experiment
+
+You're going to have to try things and find out, and some of it won't work.
+
+If the kids consistently won't eat something — even something that by every reasonable measure they should like — take it out of the rotation. Mine aren't interested in hamburgers or most of the meat-based things, and they're not eating the fish either. So those aren't for them right now. Maybe that changes later.
+
+You don't have to feel bad about it, and you don't have to relitigate it every week. It didn't work; move on.
 
 ---
 
-## 5. Run a weekly default
+## 7. Run a weekly default
 
 Decide once what you eat on each night of the week. Then stop deciding.
 
@@ -52,13 +72,11 @@ Monday is pasta. Tuesday is fish and rice. Whatever it is. The point isn't the s
 
 You're allowed to change your mind. It's a *default*, not a contract. The rule is just: unless something's going on, we're eating this. Having to actively override a plan is a completely different mental load than having to invent one from nothing, every single day, forever.
 
-## 6. Repetition builds muscle memory
+## 8. Repetition builds muscle memory
 
-This is the part nobody tells you, and it compounds.
+It isn't only that an easy recipe is easy. It's that **the fifteenth time you make something, you're barely making it anymore.** You're not measuring, not reading, not checking the next step. You've got the pan out before you've consciously decided to.
 
-It isn't only that an easy recipe is easy. It's that **the fifteenth time you make something, you're not really making it anymore.** You're not measuring, not reading, not checking the next step. Your hands know where things are. You've got the pan out before you've consciously decided to.
-
-So making the same eight things over and over isn't a failure of imagination — it's the actual strategy. Variety is expensive: every new recipe costs you attention you don't have. A small rotation, run often, eventually takes up almost no mental space at all. That's the goal. Not an impressive repertoire. **A repertoire that's free.**
+So making the same eight things over and over isn't a failure of imagination — it's the strategy. Every new recipe costs you attention you don't have. A small rotation, run often, eventually takes up almost no mental space. **That's the goal: not a big repertoire, but one that doesn't cost anything to run.**
 
 ---
 
@@ -82,7 +100,7 @@ Temperatures are Celsius, weights are metric. Where I use a specific machine I'v
 
 Cut whatever raw vegetables you have into finger-food shapes. Cucumber coins, carrot sticks, pepper strips, cherry tomatoes. Put them on the table with a dip before anything else is ready.
 
-This is the single highest-return thing in this document and it takes four minutes. Hungry kids waiting for dinner will eat raw vegetables that the same kids would refuse as a side dish twenty minutes later.
+It takes about four minutes and it's worth it. Hungry kids waiting for dinner will pick at raw vegetables that the same kids would refuse as a side dish twenty minutes later.
 
 ### Techina
 
@@ -105,7 +123,11 @@ Parve.
 - Olive oil
 - Coarse salt
 
-Peel the garlic into a roasting pan, drizzle with oil, sprinkle with salt. Roast until soft enough to mash with a fork. Mash and mix. Serve warm or at room temperature.
+1. Peel the garlic into a roasting pan. Drizzle with olive oil and sprinkle with salt.
+2. Roast at **180°C for about 30–40 min**, until the cloves are golden and soft enough to mash with a fork. Start checking at 25 min — peeled cloves go much faster than whole heads, and they turn bitter if you take them too far.
+3. Mash and mix everything together. Serve warm or at room temperature.
+
+*The handwritten card I got this from just said "roast until soft" with no temperature, so the numbers above are a starting point — go by the fork, not the clock.*
 
 ---
 
@@ -113,20 +135,22 @@ Peel the garlic into a roasting pan, drizzle with oil, sprinkle with salt. Roast
 
 Parve. ~23 min total, mostly unattended.
 
-- ~900g potatoes
+- Potatoes — **however much your air fryer actually holds.** I get ~900g through mine only by using the trick below.
 - 2 Tbsp oil
 - Spices to taste
 
 1. Preheat air fryer to **200°C** (3 min).
 2. Cut potatoes thin — matchstick or thin slices.
-3. Rinse and soak in cold water ~10 min, then dry well. *This is the step that separates real fries from sad ones. Don't skip the drying.*
+3. Rinse and soak in cold water ~10 min, then dry well. Drying gets you crispier fries — though even the softer ones taste good, so don't stress about it.
 4. Toss with oil and spices.
-5. Load the trays: one gently loaded, one overloaded.
+5. **Load one tray gently and overload the other.** The gently-loaded tray is the batch you're eating first.
 6. Cook **12 min** at 200°C.
-7. Redistribute evenly between trays.
-8. Cook another **5 min**.
+7. **Take out the gently-loaded tray and serve it** — that's dinner starting now. Split what's left across both trays so it's in a thin layer again.
+8. Cook another **5 min** and serve the second wave.
 
-**Pairs with:** anything. Cottage cheese for the protein if you want dairy. Schnitzel, hot dogs, burgers, fish.
+This is how you get more fries out of a small air fryer than it's supposed to hold: you're not cooking one big batch, you're cooking a fast batch and a slow batch.
+
+**Pairs with:** anything. Cottage cheese for the protein if you want dairy. Shnitzel, hot dogs, burgers, fish.
 
 ---
 
@@ -244,7 +268,7 @@ Works for tilapia, salmon, or similar fillets — straight from the freezer.
 4. Cook another **6 min** at 200°C.
 5. Serve immediately.
 
-**Why this works:** the glaze is the entire kid-appeal mechanism. Buy fillets individually sealed and this becomes a decision you can make at 5:45pm.
+The glaze is what makes it appealing to kids — worth doing even if you'd skip it for yourself. Buy the fillets individually sealed and this becomes a decision you can make at 5:45pm.
 
 ---
 
@@ -367,31 +391,31 @@ Meat. 5 min prep, 10–12 min cook.
 
 Carb and protein together. Minimum dishes, which counts for more than people admit.
 
-## Potato and schnitzel — pressure cooker
+## Potato and shnitzel — pressure cooker
 
-Meat. 8 minutes under pressure.
+Meat. 8 minutes under pressure. *(schnitzel)*
 
-- 400g frozen raw turkey schnitzel (separated pieces)
+- 400g frozen raw turkey shnitzel (separated pieces)
 - 600g potatoes, peeled, 2–3 cm chunks
 - 250 ml water or chicken broth
 - 1 tsp salt, ½ tsp pepper, 1 tsp garlic powder, 1 tsp paprika
 
 1. Water/broth and seasonings into the pot.
-2. Potatoes in, then **layer the schnitzel on top — don't stir it in or submerge it.**
+2. Potatoes in, then **layer the shnitzel on top — don't stir it in or submerge it.**
 3. Lid on, valve sealed. **Pressure cook HIGH 8 min.**
 4. Quick release immediately.
-5. Check schnitzel is at **74°C** internal.
+5. Check shnitzel is at **74°C** internal.
 
-Scales to 800g potato / ~500g schnitzel with 300 ml liquid.
+Scales to 800g potato / ~500g shnitzel with 300 ml liquid.
 
 ---
 
-## Rice and schnitzel — pressure cooker
+## Rice and shnitzel — pressure cooker
 
-Meat. ~20 min.
+Meat. ~20 min. *(schnitzel)*
 
 - 2 cups rice, 2 cups water
-- Chicken schnitzel slices (separated)
+- Chicken shnitzel slices (separated)
 - ½ tsp each: salt, garlic powder, onion powder
 
 1. Everything into the pressure cooker.
@@ -421,7 +445,7 @@ Meat. ~20 min. Serve over pasta or toast.
 5. Canned tomatoes with juice. Sauté 3–4 min more if you want it thicker.
 6. Lid on, **pressure cook HIGH 5 min**, quick release.
 
-**Notes from making it — this one didn't land.** Mine didn't want to try it; the verdict was "more like meat and ketchup." I'm keeping it in because the format is right even though my execution wasn't, and because a collection where everything works is a collection that's hiding something. Next attempt: less tomato, and have them help make it — participation moves the needle more than seasoning does.
+**Notes from making it — this one didn't land.** Mine didn't want to try it; the verdict was "more like meat and ketchup." I'm keeping it in because the one-pot format is right even if my version wasn't. Next attempt: less tomato, and have them help make it — kids will often eat something they helped cook.
 
 **Related:** the same thing with turkey and no vegetables is essentially homemade hamburger helper. My note from that attempt: **halve the salt and pepper, and it was way too much tomato.** It seemed done after the sauté stage (already boiling) so I skipped the pressure cook — but it still came out somewhat soggy. Reduce the liquid.
 
@@ -476,13 +500,15 @@ Serve hot immediately — it thickens as it sits.
 
 # Batch and freeze
 
-## Schnitzel — oven
+## Shnitzel — oven
 
-Meat. **This is the exception to every rule above.** *From my mother.*
+Meat. *From my mother.* *(Also spelled schnitzel.)*
 
-It takes a good hour of actual work plus cooking time. You do it once, you freeze it, and then for weeks afterward schnitzel is a fifteen-minute reheat. That trade is worth making on a Sunday. It is never worth making on a Tuesday.
+**This is the exception to every rule above.**
 
-- A box of schnitzel, cleaned up
+It takes a good hour of actual work plus cooking time. You do it once, you freeze it, and then for weeks afterward shnitzel is about an **8-minute reheat from frozen**. That trade is worth making on a Sunday. It's not worth making on a Tuesday.
+
+- A box of shnitzel, cleaned up
 - 1–2 eggs (3 for a full box)
 - Matzah meal or breadcrumbs
 - Garlic granules or powder, paprika, onion granules or powder, parsley
@@ -496,15 +522,17 @@ It takes a good hour of actual work plus cooking time. You do it once, you freez
 6. Sprinkle a little oil on the pieces and tap it around with a silicone brush.
 7. *If they don't all fit:* lay another sheet of baking paper on top, smear with oil, and put the rest on that. Oil and tap the second layer too. You can skip this second layer, but the result is drier.
 8. **Cover the tray tightly with foil.**
-9. **Bake at 180°C for 40 min**, or to **74°C** in the thickest part.
+9. **Bake at 180°C to 74°C internal** in the thickest part. The original recipe says 40 minutes; **my oven takes more like 50–60.**
 
-Cool, freeze in portions. Reheat from frozen in the air fryer or oven.
+**Get a food thermometer.** This is exactly why — the time is a guess that depends on your oven and how thick the pieces are, and the temperature isn't. It's the difference between checking once and cutting into three pieces to see if they're done.
+
+Cool, then freeze in portions. Reheat from frozen in the air fryer or oven, about 8 minutes.
 
 ---
 
-## Schnitzel — air fryer
+## Shnitzel — air fryer
 
-Meat. For when you're making it fresh rather than batching.
+Meat. *(schnitzel)* For when you're making it fresh rather than batching — but note there usually isn't much room in the basket, so you can't make very much at once.
 
 - 2 large chicken breasts → 4 fillets
 - ⅓ cup flour + ¼ tsp paprika + ½ tsp garlic powder + ¼ tsp each salt and pepper
@@ -527,9 +555,11 @@ Meat. For when you're making it fresh rather than batching.
 Parve. 12 min. **The 4/4/4 method.**
 
 1. 1 cup water in the pot, eggs on the rack.
-2. **4 min** pressure cook.
+2. **4 min** pressure cook **on HIGH**.
 3. **4 min** quick release.
 4. **4 min** ice bath.
+
+**They peel incredibly easily** — that's the real reason to do eggs this way rather than boiling them.
 
 I make a dozen at a time; they keep about a week in the fridge. Instant protein for a lunchbox or a kid who didn't eat dinner.
 
@@ -543,6 +573,8 @@ I make a dozen at a time; they keep about a week in the fridge. Instant protein 
 
 Dairy. ~20 min.
 
+This one is a bit of a potchke compared to everything else here, and a single batch is just enough for three kids and a dad. But it's a favorite, so it stays.
+
 - 2 cups whole wheat flour
 - 1 tsp baking soda
 - 1 tsp salt
@@ -553,9 +585,10 @@ Dairy. ~20 min.
 
 1. Mix the flour, baking soda and salt in a bowl.
 2. Make a well in the middle. Add the oil, buttermilk, eggs and sugar. Mix.
-3. Using a ¼, ⅓ or ½ cup as a scoop, pour onto a hot oiled griddle.
-4. Turn when bubbles form on top, about 2 min. Brown the second side, about 2 min.
-5. Serve with syrup, honey, cottage cheese or fruit. **Cottage cheese is how this becomes a protein.**
+3. **Spray the griddle with cooking oil** (or butter) before each batch. Don't skip this.
+4. Using a ¼, ⅓ or ½ cup as a scoop, pour onto the hot oiled griddle.
+5. **Turn as soon as bubbles form on top — about 2 min.** This is much sooner than feels right. I spent a long time waiting too long and burning the first side. Brown the second side, about 2 min.
+6. Serve with syrup, honey, cottage cheese or fruit. **Cottage cheese is how this becomes a protein.**
 
 ### Getting a good rise
 
@@ -569,7 +602,7 @@ You can double this (except the baking soda). Put a timer on and clean the kitch
 
 # Notes on sources
 
-Most of this is mine — worked out over a lot of weeknights, with the failures left in. The schnitzel and both salmon recipes are my mother's. The techina and roasted garlic dip come from a friend's handwritten notes. The pancakes started from a natural-foods cookbook and have been doubled and rewritten enough times that little of the original survives.
+Most of this is mine — worked out over a lot of weeknights, with the failures left in. The shnitzel and both salmon recipes are my mother's. The techina and roasted garlic dip come from a friend's handwritten notes. The pancakes started from a natural-foods cookbook and have been doubled and rewritten enough times that little of the original survives.
 
 Where something began somewhere else, I've rewritten the method in my own words and left out the original prose and photographs. Take any of it, change any of it, and please tell me what worked better.
 

@@ -11,9 +11,11 @@ A working collection of the meals I actually make for three kids, plus the princ
 1. **Time is the whole game** — no defrosting the night before, no marinating, no prep.
 2. **Hands-off beats fast** — optimize for time you can spend *not* cooking.
 3. **A carb and a protein** — that's the whole nutritional model. The protein is the hard part.
-4. **The kids have to actually eat it** — so the failures stay in.
-5. **Run a weekly default** — decide once, then stop deciding.
-6. **Repetition builds muscle memory** — a small rotation, run often, eventually costs nothing.
+4. **Make things they'll actually eat** — so the failures stay in.
+5. **It's not your job to make them eat** — provide the food, offer it, stop there. You don't have to cook a separate meal for each kid.
+6. **Expect to experiment** — if they consistently won't eat something, take it out of the rotation and don't feel bad about it.
+7. **Run a weekly default** — decide once, then stop deciding.
+8. **Repetition builds muscle memory** — a small rotation, run often, eventually costs nothing.
 
 ## Feed it to your AI
 
