@@ -655,6 +655,8 @@ Dairy. ~12 min, from frozen.
 
 The cottage cheese is the whole reason this is a recipe and not a snack. It's the protein, it takes zero work, and it turns a pastry into a carb-and-protein meal.
 
+**Use the air fryer, not the toaster oven.** Cheese borekas take me about **30 minutes** in the toaster oven and **12** in the air fryer. Same food, same result, less than half the time — and on the nights you're reaching for frozen borekas, being in a rush is usually the entire reason.
+
 **Buy a mixed bag.** Mine split hard on the filling — one won't touch the potato ones, another asks for potato and cheese by name. Same tray either way, no extra cooking.
 
 ---
@@ -674,6 +676,20 @@ Dairy. ~7 min, from frozen. *(Also spelled melawach.)*
 **Make the eggs ahead.** If there's a batch sitting in the fridge from the pressure-cooker method below, this whole meal is six minutes of pan time and nothing else — which is the same batch-once trick as the cooked pasta and the oven shnitzel.
 
 The traditional Yemenite way adds grated tomato and s'chug alongside, if you want it. The egg is the part that isn't optional — that's the protein.
+
+---
+
+## Frozen pizza — the one that can't go bad
+
+Dairy. Whatever the box says.
+
+I make the pita version far more often and I'd point you there first. But a real frozen pizza earns its freezer space for one specific reason, and it's worth being honest about what it is.
+
+**The pita pizza has a quiet weakness: the sauce and the cheese go bad.** An open jar holds a few weeks, cheese less. So the meal that's supposed to always be available quietly stops being available, and you don't find out until you're standing in the kitchen at 6pm.
+
+A frozen pizza has nothing in it that can spoil. It sits there for months and it's still dinner. That's the whole argument — not that it's better, just that it's *there* on the night the backup plan needed a backup plan.
+
+Cook it per the box. There's nothing to learn here and I'm not going to invent a technique for it.
 
 ---
 
