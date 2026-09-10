@@ -1,0 +1,419 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Weeknight Dinners for Dads</title>
+<meta name="description" content="Fast, hands-off, kid-tested weeknight meals. A carb and a protein, mostly from frozen. Kosher, metric, Celsius.">
+<meta property="og:title" content="Weeknight Dinners for Dads">
+<meta property="og:description" content="Fast, hands-off, kid-tested weeknight meals. A carb and a protein, mostly from frozen.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍳</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#fbf7f0; --bg-raised:#fffdf9; --bg-sunk:#f3ece0;
+  --ink:#2a2420; --ink-soft:#6b5f54; --ink-faint:#9a8d80;
+  --line:#e2d7c6; --line-soft:#eee6d8;
+  --accent:#b5451b; --accent-soft:#f6e4d9;
+  --on-accent:#fff;
+  --shadow:0 1px 2px rgba(60,40,20,.05), 0 6px 18px rgba(60,40,20,.05);
+  --display:'Fraunces', Georgia, 'Times New Roman', serif;
+  --body:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --maxw:46rem;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#17130f; --bg-raised:#211b16; --bg-sunk:#100d0a;
+    --ink:#f0e7db; --ink-soft:#b8a894; --ink-faint:#8a7b6b;
+    --line:#3a3028; --line-soft:#2b231c;
+    --accent:#f08a5d; --accent-soft:#3a241a;
+    --on-accent:#17130f;
+    --shadow:0 1px 2px rgba(0,0,0,.3), 0 6px 18px rgba(0,0,0,.25);
+  }
+}
+:root[data-theme="dark"]{
+  --on-accent:#17130f;
+  --bg:#17130f; --bg-raised:#211b16; --bg-sunk:#100d0a;
+  --ink:#f0e7db; --ink-soft:#b8a894; --ink-faint:#8a7b6b;
+  --line:#3a3028; --line-soft:#2b231c;
+  --accent:#f08a5d; --accent-soft:#3a241a;
+  --shadow:0 1px 2px rgba(0,0,0,.3), 0 6px 18px rgba(0,0,0,.25);
+}
+
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0; background:var(--bg); color:var(--ink);
+  font-family:var(--body); font-size:17px; line-height:1.65;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:var(--maxw); margin:0 auto; padding-inline:20px}
+
+/* ---------- masthead ---------- */
+header.top{
+  background:var(--bg-sunk);
+  border-bottom:1px solid var(--line);
+  padding-block:44px 34px;
+}
+header.top h1{
+  font-family:var(--display); font-weight:700;
+  font-size:clamp(2.1rem, 8vw, 3.4rem); line-height:1.04;
+  margin:0 0 .5rem; letter-spacing:-.02em;
+}
+header.top .tagline{
+  font-size:1.05rem; color:var(--ink-soft); margin:0 0 1.5rem; max-width:34rem;
+}
+header.top .tagline strong{color:var(--ink); font-weight:600}
+.badges{display:flex; flex-wrap:wrap; gap:8px; margin-bottom:1.5rem}
+.badge{
+  font-size:.78rem; font-weight:600; letter-spacing:.04em; text-transform:uppercase;
+  background:var(--accent-soft); color:var(--accent);
+  padding:5px 11px; border-radius:100px; white-space:nowrap;
+}
+.actions{display:flex; flex-wrap:wrap; gap:10px}
+.btn{
+  display:inline-flex; align-items:center; gap:7px;
+  font:inherit; font-size:.92rem; font-weight:600;
+  padding:11px 17px; border-radius:10px; cursor:pointer;
+  border:1px solid var(--line); background:var(--bg-raised); color:var(--ink);
+  text-decoration:none; transition:transform .08s ease, border-color .15s ease;
+  min-height:44px;
+}
+.btn:hover{border-color:var(--accent)}
+.btn:active{transform:translateY(1px)}
+.btn.primary{background:var(--accent); border-color:var(--accent); color:var(--on-accent)}
+
+/* ---------- sticky search + nav ---------- */
+.sticky{
+  position:sticky; top:0; z-index:50;
+  background:color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter:saturate(1.6) blur(12px);
+  border-bottom:1px solid var(--line);
+}
+.searchrow{display:flex; gap:10px; align-items:center; padding-block:11px}
+#q{
+  flex:1; min-width:0; font:inherit; font-size:1rem;
+  padding:11px 14px; min-height:46px;
+  border:1px solid var(--line); border-radius:10px;
+  background:var(--bg-raised); color:var(--ink);
+}
+#q:focus{outline:2px solid var(--accent); outline-offset:-1px; border-color:transparent}
+#q::placeholder{color:var(--ink-faint)}
+.iconbtn{
+  flex:none; width:46px; height:46px; display:grid; place-items:center;
+  border:1px solid var(--line); border-radius:10px; background:var(--bg-raised);
+  color:var(--ink-soft); cursor:pointer; font-size:1.15rem;
+}
+.iconbtn:hover{border-color:var(--accent); color:var(--accent)}
+nav.chips{display:flex; gap:7px; overflow-x:auto; padding-bottom:11px; scrollbar-width:none}
+nav.chips::-webkit-scrollbar{display:none}
+nav.chips a{
+  flex:none; font-size:.85rem; font-weight:600; text-decoration:none;
+  color:var(--ink-soft); background:var(--bg-raised);
+  border:1px solid var(--line); border-radius:100px; padding:7px 14px;
+  white-space:nowrap;
+}
+nav.chips a:hover, nav.chips a.on{background:var(--accent); border-color:var(--accent); color:var(--on-accent)}
+
+/* ---------- content ---------- */
+main{padding-block:8px 60px}
+.part{border-top:1px solid var(--line-soft); padding-top:34px; margin-top:28px}
+.part:first-of-type{border-top:0}
+.part > h1{
+  font-family:var(--display); font-weight:700;
+  font-size:clamp(1.55rem, 5.5vw, 2.1rem); line-height:1.15;
+  margin:0 0 1.4rem; letter-spacing:-.015em; scroll-margin-top:118px;
+}
+.card{
+  background:var(--bg-raised); border:1px solid var(--line-soft);
+  border-radius:14px; padding:22px 22px 24px; margin-bottom:16px;
+  box-shadow:var(--shadow);
+}
+.card h2{
+  font-family:var(--display); font-weight:600;
+  font-size:1.32rem; line-height:1.25; margin:0 0 .4rem;
+  letter-spacing:-.01em; scroll-margin-top:118px;
+}
+.card h3{
+  font-family:var(--display); font-weight:600; font-size:1.06rem;
+  margin:1.7rem 0 .5rem; color:var(--ink);
+}
+.card p{margin:0 0 .95rem}
+.card p:last-child, .card ul:last-child, .card ol:last-child{margin-bottom:0}
+.card > p:first-of-type{color:var(--ink-soft)}
+.card ul, .card ol{margin:0 0 1rem; padding-left:1.35rem}
+.card li{margin-bottom:.4rem}
+.card li::marker{color:var(--ink-faint)}
+.card ol li::marker{font-weight:700; color:var(--accent)}
+.card strong{font-weight:600}
+.card em{color:var(--ink-soft)}
+.card hr{display:none}
+blockquote{
+  margin:1.2rem 0; padding:14px 18px;
+  background:var(--accent-soft); border-left:3px solid var(--accent);
+  border-radius:0 10px 10px 0;
+}
+blockquote p{margin:0}
+table{
+  width:100%; border-collapse:collapse; margin:1rem 0; font-size:.94rem;
+}
+th, td{text-align:left; padding:9px 12px; border-bottom:1px solid var(--line-soft)}
+th{font-weight:600; color:var(--ink-soft); font-size:.8rem; text-transform:uppercase; letter-spacing:.04em}
+.tablewrap{overflow-x:auto; max-width:100%}
+a{color:var(--accent)}
+
+/* intro block before first part */
+.lede{padding-block:30px 6px}
+.lede p{font-size:1.06rem; color:var(--ink-soft); margin:0 0 1rem}
+
+.empty{
+  text-align:center; color:var(--ink-faint); padding:60px 20px;
+  font-size:1.05rem;
+}
+footer{
+  border-top:1px solid var(--line); background:var(--bg-sunk);
+  padding-block:30px 40px; color:var(--ink-faint); font-size:.9rem;
+}
+footer p{margin:0 0 .5rem}
+
+#toast{
+  position:fixed; left:50%; bottom:26px; transform:translate(-50%, 20px);
+  background:var(--ink); color:var(--bg); padding:12px 20px; border-radius:100px;
+  font-size:.9rem; font-weight:600; opacity:0; pointer-events:none;
+  transition:opacity .2s ease, transform .2s ease; z-index:100;
+}
+#toast.show{opacity:1; transform:translate(-50%, 0)}
+
+@media print{
+  .sticky, .actions, footer, .badges{display:none !important}
+  body{background:#fff; color:#000; font-size:11pt}
+  .card{break-inside:avoid; box-shadow:none; border-color:#ccc; margin-bottom:10px}
+  header.top{background:#fff; border:0}
+}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <h1>Weeknight Dinners for Dads</h1>
+    <p class="tagline">The meals I actually make, most weeks, for three kids. <strong>Fast, hands-off, and kid-tested</strong> — including the ones that failed.</p>
+    <div class="badges">
+      <span class="badge">Kosher</span>
+      <span class="badge">Metric &amp; °C</span>
+      <span class="badge">Mostly from frozen</span>
+      <span class="badge" id="count">&nbsp;</span>
+    </div>
+    <div class="actions">
+      <button class="btn primary" id="copyMd">📋 Copy as Markdown</button>
+      <a class="btn" href="weeknight-dinners.md" download>⬇ Download .md</a>
+      <button class="btn" id="themeBtn">◐ Theme</button>
+    </div>
+  </div>
+</header>
+
+<div class="sticky">
+  <div class="wrap">
+    <div class="searchrow">
+      <input id="q" type="search" placeholder="Search — “frozen”, “air fryer”, “15 min”…" autocomplete="off" spellcheck="false">
+      <button class="iconbtn" id="clearBtn" title="Clear" hidden>✕</button>
+    </div>
+    <nav class="chips" id="chips"></nav>
+  </div>
+</div>
+
+<main class="wrap" id="content">
+  <p class="empty">Loading recipes…</p>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>Written by a dad who cooks on weeknights. Take it, change it, tell me what worked better.</p>
+    <p>The whole thing is one plain Markdown file — copy it into ChatGPT or Claude and ask it to build you a week.</p>
+  </div>
+</footer>
+
+<div id="toast"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script>
+(function(){
+  var content = document.getElementById('content');
+  var chips = document.getElementById('chips');
+  var q = document.getElementById('q');
+  var clearBtn = document.getElementById('clearBtn');
+  var rawMd = '';
+
+  function toast(msg){
+    var t = document.getElementById('toast');
+    t.textContent = msg; t.classList.add('show');
+    clearTimeout(t._t); t._t = setTimeout(function(){ t.classList.remove('show'); }, 1900);
+  }
+
+  function slug(s){
+    return s.toLowerCase().replace(/[^\w\s-]/g,'').trim().replace(/\s+/g,'-').slice(0,50);
+  }
+
+  function build(md){
+    if (typeof marked === 'undefined'){
+      content.innerHTML = '<p class="empty">Couldn\'t load the renderer. <a href="weeknight-dinners.md">Read the plain Markdown instead →</a></p>';
+      return;
+    }
+    var html = marked.parse(md);
+    var tmp = document.createElement('div');
+    tmp.innerHTML = html;
+
+    var nodes = Array.prototype.slice.call(tmp.childNodes);
+    var frag = document.createDocumentFragment();
+    var part = null, card = null, lede = null, recipeCount = 0;
+
+    function flush(){ card = null; }
+
+    nodes.forEach(function(n){
+      if (n.nodeType !== 1){ return; }
+      var tag = n.tagName;
+
+      // the document title — already in the masthead, drop it
+      if (tag === 'H1' && !part && !lede){
+        lede = document.createElement('div');
+        lede.className = 'lede wrap-inner';
+        frag.appendChild(lede);
+        return;
+      }
+      if (tag === 'H1'){
+        flush();
+        part = document.createElement('section');
+        part.className = 'part';
+        var h = document.createElement('h1');
+        h.textContent = n.textContent;
+        h.id = slug(n.textContent);
+        part.appendChild(h);
+        frag.appendChild(part);
+        return;
+      }
+      if (tag === 'H2'){
+        card = document.createElement('article');
+        card.className = 'card';
+        var h2 = document.createElement('h2');
+        h2.textContent = n.textContent;
+        h2.id = slug(n.textContent);
+        card.appendChild(h2);
+        (part || lede || frag).appendChild(card);
+        recipeCount++;
+        return;
+      }
+      if (tag === 'HR'){ flush(); return; }
+      if (tag === 'TABLE'){
+        var w = document.createElement('div');
+        w.className = 'tablewrap';
+        w.appendChild(n);
+        (card || part || lede || frag).appendChild(w);
+        return;
+      }
+      (card || part || lede || frag).appendChild(n);
+    });
+
+    content.innerHTML = '';
+    content.appendChild(frag);
+
+    // section chips
+    var parts = content.querySelectorAll('.part > h1');
+    parts.forEach(function(h){
+      var a = document.createElement('a');
+      a.href = '#' + h.id;
+      a.textContent = h.textContent;
+      chips.appendChild(a);
+    });
+
+    document.getElementById('count').textContent = recipeCount + ' entries';
+    if (location.hash){
+      var el = document.getElementById(location.hash.slice(1));
+      if (el) el.scrollIntoView();
+    }
+  }
+
+  // ---- live search ----
+  function filter(){
+    var term = q.value.trim().toLowerCase();
+    clearBtn.hidden = !term;
+    var cards = content.querySelectorAll('.card');
+    var shown = 0;
+    cards.forEach(function(c){
+      var hit = !term || c.textContent.toLowerCase().indexOf(term) !== -1;
+      c.hidden = !hit;
+      if (hit) shown++;
+    });
+    content.querySelectorAll('.part').forEach(function(p){
+      var any = Array.prototype.some.call(p.querySelectorAll('.card'), function(c){ return !c.hidden; });
+      p.hidden = term ? !any : false;
+    });
+    var lede = content.querySelector('.lede');
+    if (lede) lede.hidden = !!term;
+
+    var e = content.querySelector('.noresult');
+    if (term && shown === 0){
+      if (!e){
+        e = document.createElement('p');
+        e.className = 'empty noresult';
+        e.textContent = 'Nothing matches “' + q.value + '”.';
+        content.appendChild(e);
+      } else { e.textContent = 'Nothing matches “' + q.value + '”.'; e.hidden = false; }
+    } else if (e){ e.hidden = true; }
+  }
+  q.addEventListener('input', filter);
+  clearBtn.addEventListener('click', function(){ q.value=''; filter(); q.focus(); });
+
+  // ---- scroll spy on chips ----
+  var spy;
+  window.addEventListener('scroll', function(){
+    clearTimeout(spy);
+    spy = setTimeout(function(){
+      var heads = Array.prototype.slice.call(content.querySelectorAll('.part > h1'));
+      var active = null;
+      heads.forEach(function(h){ if (h.getBoundingClientRect().top < 160) active = h.id; });
+      chips.querySelectorAll('a').forEach(function(a){
+        a.classList.toggle('on', a.getAttribute('href') === '#' + active);
+      });
+    }, 60);
+  }, {passive:true});
+
+  // ---- copy markdown ----
+  document.getElementById('copyMd').addEventListener('click', function(){
+    if (!rawMd){ toast('Still loading…'); return; }
+    if (navigator.clipboard && navigator.clipboard.writeText){
+      navigator.clipboard.writeText(rawMd).then(
+        function(){ toast('Copied — paste it into your AI'); },
+        function(){ toast('Copy failed — use Download instead'); }
+      );
+    } else {
+      toast('Copy unavailable — use Download instead');
+    }
+  });
+
+  // ---- theme toggle ----
+  var saved = null;
+  try { saved = localStorage.getItem('wd-theme'); } catch(e){}
+  if (saved) document.documentElement.setAttribute('data-theme', saved);
+  document.getElementById('themeBtn').addEventListener('click', function(){
+    var cur = document.documentElement.getAttribute('data-theme');
+    var isDark = cur ? cur === 'dark'
+      : window.matchMedia('(prefers-color-scheme: dark)').matches;
+    var next = isDark ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', next);
+    try { localStorage.setItem('wd-theme', next); } catch(e){}
+  });
+
+  // ---- load ----
+  fetch('weeknight-dinners.md', {cache:'no-cache'})
+    .then(function(r){ if(!r.ok) throw new Error(r.status); return r.text(); })
+    .then(function(t){ rawMd = t; build(t); })
+    .catch(function(){
+      content.innerHTML = '<p class="empty">Couldn\'t load the recipes. <a href="weeknight-dinners.md">Try the raw Markdown →</a></p>';
+    });
+})();
+</script>
+</body>
+</html>
