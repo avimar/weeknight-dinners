@@ -106,6 +106,7 @@ Everything's grouped by what job it does, not by ingredient:
 - **Carbs & vegetables** — the easy half. Pick one, pair with anything below.
 - **Protein from frozen** — no thaw, no prep, weeknight core.
 - **One-pot meals** — carb and protein together, minimum dishes.
+- **Junk food from the freezer** — pastry and a protein. Not virtuous, genuinely useful.
 - **Batch and freeze** — the one thing worth an hour, once.
 - **Breakfast for dinner** — a legitimate and underrated category.
 
@@ -632,6 +633,47 @@ Israeli-style, with shamenet l'bishul and white cheese.
 Serve hot immediately — it thickens as it sits.
 
 **Notes:** lighter cream is less rich but still fine. Shredded yellow cheese adds flavor. Skip the flour entirely for a thinner, simpler sauce and one less step.
+
+---
+
+# Junk food from the freezer
+
+Pastry out of the freezer aisle, into an air fryer or a pan. I'm not going to pretend this is the virtuous end of the book — it isn't. But it's fast, they actually eat it, and the protein you pair it with costs no work at all. On a night when nothing else was going to happen, that's a real meal.
+
+The pattern is the same for both of these: **the carb comes frozen and the protein needs no cooking.** Once you see it that way you can build your own.
+
+## Borekas and cottage cheese — air fryer
+
+Dairy. ~12 min, from frozen.
+
+- Frozen borekas — however many they'll eat
+- Cottage cheese
+
+1. Borekas straight from the freezer into the air fryer, **180°C for 12 min**.
+2. **Flip them halfway.** Worth getting up for — the bottoms stay pale otherwise.
+3. Cottage cheese on the side.
+
+The cottage cheese is the whole reason this is a recipe and not a snack. It's the protein, it takes zero work, and it turns a pastry into a carb-and-protein meal.
+
+**Buy a mixed bag.** Mine split hard on the filling — one won't touch the potato ones, another asks for potato and cheese by name. Same tray either way, no extra cooking.
+
+---
+
+## Malawach and a hard-boiled egg — pan
+
+Dairy. ~7 min, from frozen. *(Also spelled melawach.)*
+
+- Frozen malawach, one per person
+- Butter
+- A hard-boiled egg each
+
+1. Butter in a pan over medium heat.
+2. Malawach in straight from frozen. **About 3 min per side** — golden and crisp outside, flaky inside.
+3. Serve with a hard-boiled egg.
+
+**Make the eggs ahead.** If there's a batch sitting in the fridge from the pressure-cooker method below, this whole meal is six minutes of pan time and nothing else — which is the same batch-once trick as the cooked pasta and the oven shnitzel.
+
+The traditional Yemenite way adds grated tomato and s'chug alongside, if you want it. The egg is the part that isn't optional — that's the protein.
 
 ---
 
