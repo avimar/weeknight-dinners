@@ -656,7 +656,7 @@ Serve hot immediately — it thickens as it sits.
 
 Pastry out of the freezer aisle, into an air fryer or a pan. I'm not going to pretend this is the virtuous end of the book — it isn't. But it's fast, they actually eat it, and the protein you pair it with costs no work at all. On a night when nothing else was going to happen, that's a real meal.
 
-The pattern is the same for both of these: **the carb comes frozen and the protein needs no cooking.** Once you see it that way you can build your own.
+The pattern is the same throughout: **the carb comes frozen and the protein costs you almost nothing** — a spoon of cottage cheese, an egg already boiled in the fridge, five minutes of hot dog. Once you see it that way you can build your own.
 
 ## Borekas and cottage cheese — air fryer
 
@@ -692,6 +692,23 @@ Dairy. ~7 min, from frozen. *(Also spelled melawach.)*
 **Make the eggs ahead.** If there's a batch sitting in the fridge from the pressure-cooker method below, this whole meal is six minutes of pan time and nothing else — which is the same batch-once trick as the cooked pasta and the oven shnitzel.
 
 The traditional Yemenite way adds grated tomato and s'chug alongside, if you want it. The egg is the part that isn't optional — that's the protein.
+
+---
+
+## Store fries and hot dogs — air fryer
+
+Meat. Whatever the bag says, plus five minutes. **No prep at all.**
+
+- A bag of ready-made frozen fries
+- Hot dogs
+
+1. Fries straight from frozen into the air fryer at **200°C**, for the time on the bag.
+2. **Score the hot dogs** and add them for the last **5 minutes**.
+3. That's it.
+
+There's a from-scratch fries recipe earlier in this book and I stand behind it. But one of my kids will only eat the bagged ones and has told me so to my face. That isn't a failure of the recipe — commercial fries carry a starch coating and a par-fry from the factory that you can't fully reproduce at home, and he can taste the difference. Some of this is just conceding the point.
+
+**This is the meal for a kid who has gone past hungry and into hysterical.** Mine asks for hot dogs by name when he's crying too hard to get a full sentence out. Nothing in it asks him to wait, asks me to negotiate, or requires anybody to make a decision. Bag, freezer, twenty minutes.
 
 ---
 
