@@ -9,13 +9,14 @@ Fast, hands-off, kid-tested weeknight meals. A carb and a protein, mostly from f
 A working collection of the meals I actually make for three kids, plus the principles behind them — which matter more than the recipes do:
 
 1. **Time is the whole game** — no defrosting the night before, no marinating, no prep.
-2. **Hands-off beats fast** — optimize for time you can spend *not* cooking.
-3. **A carb and a protein** — that's the whole nutritional model. The protein is the hard part.
-4. **Make things they'll actually eat** — so the failures stay in.
-5. **It's not your job to make them eat** — provide the food, offer it, stop there. You don't have to cook a separate meal for each kid. (Ellyn Satter's [Division of Responsibility](https://www.janetlansbury.com/2022/05/concerned-about-your-childs-eating-habits-ellyn-satter-has-answers/); includes the no-snacks-near-bedtime corollary.)
-6. **Expect to experiment** — if they consistently won't eat something, take it out of the rotation and don't feel bad about it.
-7. **Run a weekly default** — decide once, then stop deciding.
-8. **Repetition builds muscle memory** — a small rotation, run often, eventually costs nothing.
+2. **The air fryer is why you can wing it** — 12 minutes instead of 35 means you don't need a plan at all.
+3. **Hands-off beats fast** — optimize for time you can spend *not* cooking.
+4. **A carb and a protein** — that's the whole nutritional model. The protein is the hard part.
+5. **Make things they'll actually eat** — so the failures stay in.
+6. **It's not your job to make them eat** — provide the food, offer it, stop there. You don't have to cook a separate meal for each kid. (Ellyn Satter's [Division of Responsibility](https://www.janetlansbury.com/2022/05/concerned-about-your-childs-eating-habits-ellyn-satter-has-answers/); includes the no-snacks-near-bedtime corollary.)
+7. **Expect to experiment** — if they consistently won't eat something, take it out of the rotation and don't feel bad about it.
+8. **Run a weekly default** — decide once, then stop deciding.
+9. **Repetition builds muscle memory** — a small rotation, run often, eventually costs nothing.
 
 There's also a short **parenting section** — not about food. The books that actually helped (Playful Parenting, Janet Lansbury's *Unruffled*, Good Inside), and the ideas I lean on most, including what to do when you don't get many hours with your kids. The core of it: you're not there to fix their emotions, you're there to help them learn to handle their own.
 

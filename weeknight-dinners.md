@@ -20,7 +20,19 @@ Anything that requires you to have made a decision last night has already failed
 
 This is why so much of what follows is *from frozen* and *in an air fryer*. Frozen individually-sealed fish fillets go from freezer to plate in about twelve minutes, with no thawing step.
 
-## 2. Hands-off beats fast
+## 2. The air fryer is why you can wing it
+
+Cheese borekas: about **30 minutes** in the toaster oven, **12** in the air fryer. Same food, same result.
+
+That gap is doing more work than any single recipe in this book. A full-size oven spends ten minutes preheating before it has done anything for you at all, and it's still going when the air fryer has finished and been emptied.
+
+**When dinner takes twelve minutes instead of thirty-five, you stop needing a plan.** Walk in at six, open the freezer, decide standing right there, eat at six-twenty. The distance between *"I should figure out dinner"* and *dinner* gets short enough that you don't have to have thought about it in advance — which is the only reason winging it works on a night you have nothing ready and no idea what you're making.
+
+That's the unlock, and it isn't crispiness. It's speed converting into *not having to plan*.
+
+None of this is brand-specific and it isn't machine worship. An air fryer is a small convection oven with almost no thermal mass to heat up — that's the entire trick, and any of them will do it.
+
+## 3. Hands-off beats fast
 
 A twelve-minute recipe that needs you standing over it is worse than a twenty-five-minute one you can walk away from.
 
@@ -28,7 +40,7 @@ You are not only cooking. You are also doing homework, breaking up a fight, and 
 
 Where a recipe *does* have two active parts, run them in parallel. See the mac and cheese: the sauce is the slow half, so it starts the moment the pasta hits the water, not when the pasta is done. That single habit turns a 25-minute meal into a 15-minute one.
 
-## 3. A carb and a protein
+## 4. A carb and a protein
 
 That's the whole nutritional model. Don't overbuild it.
 
@@ -36,13 +48,13 @@ Carbs are easy — kids eat carbs without negotiation. **The protein is the hard
 
 Vegetables get their own rule: **cut them into finger food and put them on the table raw, with a dip.** Sticks, coins, spears — the shape matters more than you'd think. A raw carrot stick sitting next to a bowl of techina is just there, and some of it gets eaten.
 
-## 4. Make things they'll actually eat
+## 5. Make things they'll actually eat
 
 A perfectly balanced meal that comes back untouched hasn't fed anyone.
 
 So the honest feedback stays in these recipes. Where something failed, I say so. You'll see notes like *"kids said burned"* and *"didn't want to try it"* — those are as useful as the parts that worked.
 
-## 5. It's not your job to make them eat
+## 6. It's not your job to make them eat
 
 This one isn't mine — it's the single most useful thing I've read about feeding kids, and it comes from Ellyn Satter, a nutritionist and family therapist who spent her career on exactly this.
 
@@ -73,7 +85,7 @@ Hold that line for a week or two and dinner starts landing differently.
 
 For a longer and warmer version, Janet Lansbury interviewed Satter on her *Unruffled* podcast — the episode is "Concerned About Your Child's Eating Habits? Ellyn Satter Has Answers" (May 2022), and her site posts full transcripts, so it's a ten-minute read rather than a listen. *(Her site was down when I last checked; search the episode title or find it in any podcast app.)*
 
-## 6. Expect to experiment
+## 7. Expect to experiment
 
 You're going to have to try things and find out, and some of it won't work.
 
@@ -83,7 +95,7 @@ You don't have to feel bad about it, and you don't have to relitigate it every w
 
 ---
 
-## 7. Run a weekly default
+## 8. Run a weekly default
 
 Decide once what you eat on each night of the week. Then stop deciding.
 
@@ -91,7 +103,7 @@ Monday is pasta. Tuesday is fish and rice. Whatever it is. The point isn't the s
 
 You're allowed to change your mind. It's a *default*, not a contract. The rule is just: unless something's going on, we're eating this. Having to actively override a plan is a completely different mental load than having to invent one from nothing, every single day, forever.
 
-## 8. Repetition builds muscle memory
+## 9. Repetition builds muscle memory
 
 It isn't only that an easy recipe is easy. It's that **the fifteenth time you make something, you're barely making it anymore.** You're not measuring, not reading, not checking the next step. You've got the pan out before you've consciously decided to.
 
@@ -659,7 +671,7 @@ Dairy. ~12 min, from frozen.
 
 The cottage cheese is the whole reason this is a recipe and not a snack. It's the protein, it takes zero work, and it turns a pastry into a carb-and-protein meal.
 
-**Use the air fryer, not the toaster oven.** Cheese borekas take me about **30 minutes** in the toaster oven and **12** in the air fryer. Same food, same result, less than half the time — and on the nights you're reaching for frozen borekas, being in a rush is usually the entire reason.
+**Use the air fryer, not the toaster oven.** These take me about **30 minutes** in the toaster oven and **12** in the air fryer. That difference is principle 2, and this is the recipe that taught it to me.
 
 **Buy a mixed bag.** Mine split hard on the filling — one won't touch the potato ones, another asks for potato and cheese by name. Same tray either way, no extra cooking.
 
