@@ -17,6 +17,8 @@ A working collection of the meals I actually make for three kids, plus the princ
 7. **Run a weekly default** — decide once, then stop deciding.
 8. **Repetition builds muscle memory** — a small rotation, run often, eventually costs nothing.
 
+There's also a short **parenting section** — not about food. The books that actually helped (Playful Parenting, Janet Lansbury's *Unruffled*, Good Inside), and the ideas I lean on most, including what to do when you don't get many hours with your kids. The core of it: you're not there to fix their emotions, you're there to help them learn to handle their own.
+
 ## Feed it to your AI
 
 The entire collection is one plain Markdown file: [`weeknight-dinners.md`](weeknight-dinners.md).

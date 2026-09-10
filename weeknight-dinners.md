@@ -69,7 +69,9 @@ This isn't about withholding food. Satter is firmly against restricting kids' ea
 
 Hold that line for a week or two and dinner starts landing differently.
 
-**Read more:** [Janet Lansbury's interview with Ellyn Satter](https://www.janetlansbury.com/2022/05/concerned-about-your-childs-eating-habits-ellyn-satter-has-answers/) is the clearest introduction I've found — it's a transcript, so you can read it in ten minutes instead of listening to the podcast.
+**Read more:** [The Satter Institute's own page on the Division of Responsibility](https://www.ellynsatterinstitute.org/how-to-feed/division-of-responsibility) is the short authoritative version — it's an approach the American Academy of Pediatrics endorses, not one person's opinion.
+
+For a longer and warmer version, Janet Lansbury interviewed Satter on her *Unruffled* podcast — the episode is "Concerned About Your Child's Eating Habits? Ellyn Satter Has Answers" (May 2022), and her site posts full transcripts, so it's a ten-minute read rather than a listen. *(Her site was down when I last checked; search the episode title or find it in any podcast app.)*
 
 ## 6. Expect to experiment
 
@@ -108,6 +110,80 @@ Everything's grouped by what job it does, not by ingredient:
 - **Breakfast for dinner** — a legitimate and underrated category.
 
 Temperatures are Celsius, weights are metric. Where I use a specific machine I've said so, but nothing here is machine-specific — an air fryer is an air fryer.
+
+There's also a **parenting section** between the principles and the recipes. It has nothing to do with food and you're welcome to skip straight past it.
+
+---
+
+# While I have your attention
+
+This isn't a food section. Skip it if you want the recipes.
+
+But the Satter thing above was the second-most useful thing I've read about kids, and since a few of us are in similar situations, here's the rest of what actually moved the needle for me. I'm not a professional anything. This is just what helped.
+
+## The reason dinner should be boring
+
+Here's my own worst habit, and the thread that connects this section to the rest of the document:
+
+**I get stuck in the practical engineering of the evening.** Food, clothes, teeth, bedtime, schedules. And I can run that whole operation competently and still have given the kids almost nothing, because the entire time my attention was on logistics.
+
+They need attention, flexibility and space — not a smoothly-run shift. That's what all the speed in this document is actually for. Dinner isn't the point of the evening. It's the thing you get out of the way so there's something left of you afterward.
+
+## The big one: you're not there to fix it
+
+If I only get to say one thing, it's this.
+
+A huge part of my last year has been **pulling back.** Not taking responsibility for everything. Not being the problem-solver. Not making my kids feel better — just *holding* that they want something, that they're upset about something, and staying there with them while they are.
+
+That turns out to be the job. **You are not there to fix their emotions. You're there to help them learn to handle their own.** Those are completely different tasks, and I spent a long time doing the first one and calling it parenting.
+
+What it looks like in practice: they're upset, and you don't rush in to solve it, distract from it, or talk them out of it. You stay calm and you stay present and you let it be true that they're upset. What they learn from that — slowly, over years — is that having a big feeling isn't dangerous, doesn't push you away, and can be gotten through. That's a skill they'll use for the rest of their lives, and it's not one you can explain to them. They only get it by living through it with someone steady.
+
+And here's the part that matters most if you're reading this as a divorced dad: **whatever else is going on, you can be the parent who provides calm and stability.** If the other house is less predictable, that isn't something you can fix or control, and trying to compensate for it will wreck you. What you *can* do is make sure that at least one of their homes is a place where emotions are allowed, where nobody's scared of them, and where an adult stays steady.
+
+**That holds no matter how little time you get.** It's not about hours. A kid who has one reliably calm parent has something enormous, even if they only see him twice a week.
+
+## Three that actually helped
+
+**Playful Parenting — Lawrence Cohen.** The one I'd hand you first. Use silly, absurd, role-play, physical goofiness to turn a standoff into a game. Taking things *less* seriously usually greases the wheels. The bigger idea underneath it: aim at **connection**, not at future behavior. Misbehavior and sibling fighting are usually downstream of a connection gap, and you can often fix them by going at the connection instead of the behavior.
+
+**Janet Lansbury — the *Unruffled* podcast.** The podcast is the good part; episodes are short and each one is a real situation. She's also where the Satter interview above comes from. Best on the specific move in the specific moment. Any podcast app.
+
+**Good Inside — Dr. Becky Kennedy.** Get the book; the website's a bit of a dud. Best on the frame rather than the technique: what's going on underneath, and how to think about your kid as a good kid having a hard time rather than a bad kid.
+
+## The handful of ideas I actually use
+
+**Protect them from harm, not from pain.** My therapist's line. Life-changing burns, yes. Small hurts, disappointments, losing a game, a fight with a sibling — those are supposed to happen. You don't have to intervene in everything, and letting kids work a conflict out themselves is usually the better parenting.
+
+**Model calm; don't enforce it.** *"I'm bigger than you and I'm calmer than you."* You're not making them behave. You're showing them that big scary feelings are acceptable and survivable and don't push you away. They pick that up by osmosis, over years, from watching you not lose it.
+
+**To be calm, you can't be rushed.** So be early. Being early feels like wasted time, which is exactly why I don't do it, which is exactly why I'm not calm. Leaving fifteen minutes earlier does more for the evening than any technique.
+
+**Kids test boundaries. That's the job.** They're not defying you, they're checking whether the boundary is real. Expect it, and be ready to calmly *help them do the thing* rather than repeat yourself louder. Sometimes they just need a hand to get started. And remember what you're usually asking: stop the fun thing and switch to the less fun thing. Of course they don't jump.
+
+**When they're melting down is the worst possible time to teach anything.** Limit the damage, keep the relationship intact, and put the lesson on a list for a calm moment later. Nothing you say mid-tantrum lands — they're too flooded to think, let alone learn.
+
+**The calm container, when it's happening:** lower your energy, drop your shoulders, get down to their level. Be quiet and present. Name what they feel — *"You're really upset. You wanted X."* No lecture. Then wait with them. You're not fixing anything, you're being steady ground while they move through it.
+
+**Notice the good five minutes.** Not the ten minutes of tantrum around it. Point at the playing-nicely, the helping, the listening. What you put attention on is what grows, and the default is to narrate only the problems.
+
+**Don't fight non-safety battles.** Worst case, no bath tonight. She'll have one on Sunday. Pick the hills where something real is at stake and let the rest go, especially when you're tired.
+
+**You can't care more about it than they do.** Homework, mostly. That one took me a while.
+
+## If you don't get many hours
+
+Some of us have the kids a couple of days a week, or less. A few things I'd say about that.
+
+**The pressure is to make it count, and that pressure is the trap.** When your time is short, everything in you says the hours should be special — outings, treats, a good time engineered end to end. But an outing is a performance, and kids don't bond to performances. They bond to ordinary time. The park. Cooking together badly. Being in the same room doing separate things.
+
+**Boring and home-like is the goal, not the failure mode.** Your place should feel like their house, not a nice place they visit. Routines, their stuff in their spots, chores, normal weeknight dinners — the unremarkable texture of living somewhere. That's what makes you a parent rather than a host.
+
+**Don't overcomplicate it.** You don't need to do impressive things or buy a lot of toys. Simple fun, a park, being supportive and around. That's most of it.
+
+**Your primary job is being their dad.** I asked a rabbi once whether I should be doing better, being more spiritual, and that was the answer — your primary job is being a dad, and everything else is negotiable around it. If getting to something is going to make you a stressed dad instead of a calm one, be the calm dad.
+
+And you're not responsible for engineering a perfect outcome. Do your reasonable share and let go of the rest — the weight isn't yours to carry alone.
 
 ---
 
