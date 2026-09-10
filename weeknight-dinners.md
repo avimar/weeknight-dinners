@@ -177,13 +177,13 @@ I asked a rabbi once whether I should be doing better at all this, being more sp
 
 And you are not responsible for engineering a perfect outcome. Do your reasonable share and let go of the rest. The weight isn't yours alone to carry.
 
-## Three that actually helped
+## Three great resources
 
 **Playful Parenting — Lawrence Cohen.** The one I'd hand you first. Silly, absurd, role-play, physical goofiness to turn a standoff into a game — taking things *less* seriously usually greases the wheels. The bigger idea underneath: aim at **connection**, not at future behavior. Misbehavior and sibling fighting are usually downstream of a connection gap.
 
-**Janet Lansbury — the *Unruffled* podcast.** The podcast is the good part; episodes are short and each is a real situation. She's also where the Satter interview above comes from. Best on the specific move in the specific moment. Any podcast app.
+**Janet Lansbury — the *Unruffled* podcast.** Short episodes, each one a real situation. What surprised me is that the value isn't really technique — **it's reframing, aimed at the parent.** She takes something you've been reading as defiance, or manipulation, or a problem to fix, and shows you a completely different way of seeing what the kid is doing. Nothing about the kid changes. Your experience of it changes, and then you're a different person standing in the room, which does more than any technique would have. She's also where the Satter interview above comes from. Any podcast app.
 
-**Good Inside — Dr. Becky Kennedy.** Get the book; the website's a bit of a dud. Best on the frame rather than the technique: your kid as a good kid having a hard time, not a bad kid.
+**Good Inside — Dr. Becky Kennedy.** Get the book; the website's a bit of a dud. This one gives you a model of what's going on underneath: a kid behaving badly is almost always a kid who's overwhelmed rather than one who's manipulating you. A good kid having a hard time.
 
 ---
 
