@@ -527,6 +527,10 @@ Dairy. ~10 min, no thawing.
 
 Both main ingredients keep, which is the point: a bag of pita lives in the freezer, and an open jar of pizza sauce holds a few weeks in the fridge. Same idea as decanting the beans — a couple of things that sit around indefinitely mean a real meal is always available without a shop or a plan.
 
+**If the cheese keeps dying before you use it, freeze it.** Sliced cheese freezes fine and thaws almost instantly — fast enough to go straight onto the pita. The catch is that you have to wrap the slices *individually* in small bags, or they weld into one brick you can't separate. It's a genuinely annoying ten minutes and I won't pretend otherwise.
+
+Whether that's worth doing comes down to how fast your fridge turns over. I don't bother these days — my kids are home enough that we get through a pack. **But on the weeks you don't have them, cheese is exactly the thing that quietly dies in the fridge while you're not cooking**, and this is how you stop throwing it out. Wrap it the day you buy it, not the day you notice it's turning.
+
 ---
 
 ## Potato and shnitzel — pressure cooker
@@ -685,7 +689,7 @@ Dairy. Whatever the box says.
 
 I make the pita version far more often and I'd point you there first. But a real frozen pizza earns its freezer space for one specific reason, and it's worth being honest about what it is.
 
-**The pita pizza has a quiet weakness: the sauce and the cheese go bad.** An open jar holds a few weeks, cheese less. So the meal that's supposed to always be available quietly stops being available, and you don't find out until you're standing in the kitchen at 6pm.
+**The pita pizza has a quiet weakness: the sauce goes bad.** An open jar holds a few weeks. The cheese goes faster still, though that one you can solve by freezing slices — see the pita pizza recipe. So the meal that's supposed to always be available quietly stops being available, and you don't find out until you're standing in the kitchen at 6pm.
 
 A frozen pizza has nothing in it that can spoil. It sits there for months and it's still dinner. That's the whole argument — not that it's better, just that it's *there* on the night the backup plan needed a backup plan.
 
