@@ -505,7 +505,26 @@ That's the whole recipe. Carb, protein and dairy in a bowl in about two minutes,
 
 **Decant the beans out of the can into a plastic container.** They keep noticeably longer that way than sitting in the opened can.
 
-Between those two, the whole meal is assembly. Nothing cooks, nothing defrosts, nothing gets decided. For the evenings when you have nothing left, this is the one.
+Between those two, the whole meal is assembly. Nothing cooks, nothing defrosts, nothing gets decided.
+
+---
+
+## Pita pizza — toaster oven
+
+Dairy. ~10 min, no thawing.
+
+- Pita — straight from the freezer is fine
+- Thick pizza sauce
+- Cheese
+
+1. Pita on the tray, frozen or not.
+2. Spread the sauce over it.
+3. Cheese on top.
+4. Toaster oven until the cheese is melted and bubbling.
+
+**Use a thick sauce, not a thin one.** Thin sauce soaks straight into the pita and you get a soggy middle.
+
+Both main ingredients keep, which is the point: a bag of pita lives in the freezer, and an open jar of pizza sauce holds a few weeks in the fridge. Same idea as decanting the beans — a couple of things that sit around indefinitely mean a real meal is always available without a shop or a plan.
 
 ---
 
